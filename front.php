@@ -8,7 +8,7 @@ echo $_POST['email'];
 <html>  
 <body>
 
-<form action="welcome.php" method="post">
+<form  method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
